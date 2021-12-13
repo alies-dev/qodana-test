@@ -1,0 +1,14 @@
+{
+    "name": "alies/qodana-test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alies\\QodanaTest\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.1"
+    }
+}
